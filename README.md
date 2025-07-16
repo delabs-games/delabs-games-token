@@ -12,10 +12,10 @@ The **Delabs Games (DELABS) Token** is the utility and ecosystem token for Delab
 
 ## 📦 Deployed Contract Addresses
 
-| Network  | Token Address                                | Block Explorer                                                                                         |
-| -------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **BSC**  | `0x6d2C82e975abeDd52C90260b215eD7482E5e5438` | [BscScan](https://bscscan.com/token/0x6d2C82e975abeDd52C90260b215eD7482E5e5438)                        |
-| **KAIA** | `0x76c54eb5121fDb7cceC4147E1B0C5646337731bd` | [Kaiascan](https://kaiascan.io/address/0x76c54eb5121fdb7ccec4147e1b0c5646337731bd?tabId=txList&page=1) |
+| Network  | Token Address | Block Explorer                   |
+| -------- | ------------- | -------------------------------- |
+| **BSC**  | `TBU`         | [BscScan](https://bscscan.com/)  |
+| **KAIA** | `TBU`         | [Kaiascan](https://kaiascan.io/) |
 
 ## 🧠 Security
 
